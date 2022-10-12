@@ -40,7 +40,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 
 ```bash
-git clone https://github.com/DikaArdnt/Hisoka-Morou
+git clone https://github.com/abcdefahri/botwafahri
 cd Hisoka-Morou
 npm install
 ```
